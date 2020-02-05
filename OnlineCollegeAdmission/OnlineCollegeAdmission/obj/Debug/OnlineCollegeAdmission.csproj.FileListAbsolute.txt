@@ -1,0 +1,6 @@
+c:\users\kannan\documents\visual studio 2015\Projects\OnlineCollegeAdmission\OnlineCollegeAdmission\bin\Debug\OnlineCollegeAdmission.exe.config
+c:\users\kannan\documents\visual studio 2015\Projects\OnlineCollegeAdmission\OnlineCollegeAdmission\obj\Debug\OnlineCollegeAdmission.csprojResolveAssemblyReference.cache
+c:\users\kannan\documents\visual studio 2015\Projects\OnlineCollegeAdmission\OnlineCollegeAdmission\bin\Debug\OnlineCollegeAdmission.exe
+c:\users\kannan\documents\visual studio 2015\Projects\OnlineCollegeAdmission\OnlineCollegeAdmission\bin\Debug\OnlineCollegeAdmission.pdb
+c:\users\kannan\documents\visual studio 2015\Projects\OnlineCollegeAdmission\OnlineCollegeAdmission\obj\Debug\OnlineCollegeAdmission.exe
+c:\users\kannan\documents\visual studio 2015\Projects\OnlineCollegeAdmission\OnlineCollegeAdmission\obj\Debug\OnlineCollegeAdmission.pdb
